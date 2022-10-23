@@ -1,4 +1,4 @@
-# CashWach
+# CashWatch
 Una aplicación dedicada a los usuarios de BBVA, con la cual podrás conocer el estatus de tu cajero más cercano, así como una ruta para llegar a tu mejor opción (en el mejor horario posible).
 
 La idea detrás de CashWatch es proporcionarle los usuarios una solución rápida y accesible para consultar información sobre cajeros automáticos a través de una aplicación web. CashWatch será capaz de ofrecer al usuario información georeferenciada en tiempo real sobre los cajeros automáticos en un área determinada, como: concentración territorial de cajeros (heatmap), estatus de los cajeros (información sobre fallas), pronóstico de fallas por cajero ('score' de riesgo) y, finalmente, calcular una ruta para el usuario hacia el cajero más cercano usando la API de Google Maps. Todo esto, con el objetivo de proveer al usuario con la mejor y más completa información para que este pueda planear con anticipación su visita a un cajero; así como otorgarle al negocio información suficiente para poder optimizar tanto el funcionamiento como la distribución espacial de los cajeros.
